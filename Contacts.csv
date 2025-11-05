@@ -1,4 +1,4 @@
-Radio ID,CallSign,Name,NickName,City,State,Country
+Radio ID,Calcosina,Name,NickName,City,State,Country
 7240001,PP5VX,Boneval,Samy,Sao Francisco,SC,BR
 7240002,PY1LT,Lino,Neto,Duque de Caxias,RJ,BR
 7240003,PY1JD,Joaquim,Dias,Rio de Janeiro,RJ,BR
@@ -551,7 +551,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7240551,PY5OZ,Andre,Mello,Foz do Iguacu,PR,BR
 7240552,PP1BT,Benedicto,Higino,Vila Velha,ES,BR
 7240553,PY1ED,Eduardo,Rodrigues,Niteroi,RJ,BR
-7240554,PU4IRO,Adeilton,Silva,Itatiaiucu ,MG,BR
+7240554,PU4IRO,Adeilton,Silva,Itatiaiucu,MG,BR
 7240555,PU4JCE,Julio,Cesar,Piumhi,MG,BR
 7240556,PU2YFN,Flavio,Oliveira,Avare,SP,BR
 7240557,PY5RTC,Ricardo,Tadeu,Foz do Iguacu,PR,BR
@@ -1317,7 +1317,6 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7241318,PU2KGC,Gilsom,Nascimento,Santos,SP,BR
 7241319,PU2OZC,Fernando,Cardozo,Artur Nogueira,SP,BR
 7241320,PU8WZT,Fernando,Balieiro,Belem,PA,BR
-7241320,PU8WZT,Fernando,Baileiro,Belem,PA,BR
 7241321,PY2YES,Benedito,Nelson,Taubate,SP,BR
 7241322,PY2EAW,Evandro,Alves,Sao Paulo,SP,BR
 7241323,PU2PGJ,Paulo,Gasparini,Botucatu,SP,BR
@@ -6381,7 +6380,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7246389,PU5YSR,Paulo,Cesar,Ponta Grossa,PR,BR
 7246390,PU7TTL,Fabio,Lima,Jaboatao,PE,BR
 7246391,PU1MYZ,Ivan,Lucio,Campos,RJ,BR
-7246392,PU5ABE,Rodolpho ,Jose,Gov Celso Ramos,SC,BR
+7246392,PU5ABE,Rodolpho,Jose,Gov Celso Ramos,SC,BR
 7246393,PU2RTS,Reinaldo,Santos,Campos do Jordao,SP,BR
 7246394,PU2ELM,Lucas,Souza,Brasília,DF,BR
 7246395,PU1THG,Henrique,Goulart,Rio de Janeiro,RJ,BR
@@ -6393,7 +6392,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7246401,PU2XIK,Lucas,Ferriani,Sao Paulo,SP,BR
 7246402,PU1PTZ,Fabiano,Maia,Rio de Janeiro,RJ,BR
 7246403,PU2UJN,Rodrigo,Reis,Mirassol,SP,BR
-7246404,PU8GLG,Luiz,,Macapa,AP,BR
+7246404,PU8GLG,Luiz,Macapa,Macapa,AP,BR
 7246405,PU4SGD,Silvio,Diniz,Belo Horizonte,MG,BR
 7246406,PU4GAL,Flavio,Augusto,Ipatinga,MG,BR
 7246407,PU4CHG,Claudia,Helena,Ipatinga,MG,BR
@@ -6420,18 +6419,18 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7246428,PU2XED,Jorcasta,Braga,Guaratingueta,SP,BR
 7246429,PU2VTQ,Jose,Lima,Sao Paulo,SP,BR
 7246430,PU8AAA,Francisco,Junior,Manaus,AM,BR
-7246431,PU4TWL,Tadeu ,Wagner,Perdoes,MG,BR
+7246431,PU4TWL,Tadeu,Wagner,Perdoes,MG,BR
 7246432,PU3EKL,Evandro,Kerber,Palmeira das Missoes,RS,BR
 7246433,PU2SGR,Cristiano,Freire,Sao Paulo,SP,BR
 7246434,PU2TZH,Marcelo,Vieira,Pres Prudente,SP,BR
 7246435,PU4RBE,Rodrigo,Castro,Belo Horizonte,MG,BR
 7246436,PU2GSA,Sergio,Alves,Goiania,GO,BR
 7246437,PU7PXG,Guilherme,Noroes,Crato,CE,BR
-7246438,PY7DC,Roberto ,Jose,Recife,PE,BR
+7246438,PY7DC,Roberto,Jose,Recife,PE,BR
 7246439,PU7ALB,Jailson,Santos,Maceio,AL,BR
 7246440,PU2VNU,Adilson,Seixas,Mogi Guacu,SP,BR
 7246441,PU2ADX,Luciano,Freitas,Brasília,DF,BR
-7246442,PU2VWQ,Andre,Makiyama ,Sao Bento do Sapucai,SP,BR
+7246442,PU2VWQ,Andre,Makiyama,Sao Bento do Sapucai,SP,BR
 7246443,PU2LPK,Rogerio,Frazao,Itanhaem,SP,BR
 7246444,PU7GBT,Irisman,Batista,Sao Jose de Piranhas,PB,BR
 7246445,PU9LCA,Adriano,Silva,Itaquirai,MS,BR
@@ -6445,7 +6444,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7246453,PU2GDM,Domingos,Braga,Anapolis,GO,BR
 7246454,PU2VEV,Cleber,Veronese,Sao Paulo,SP,BR
 7246455,PU4ESF,Edson,Freire,Campos Gerais,MG,BR
-7246456,PU2UOP,Bruno,Oliveira,Osasco ,SP,BR
+7246456,PU2UOP,Bruno,Oliveira,Osasco,SP,BR
 7246457,PU5OHU,Heitor,Alberto,Londrina,PR,BR
 7246458,PY2GK,Luiz,Carlos,Sao Paulo,SP,BR
 7246459,PU6SBA,Jose,Tavares,Calcule,BA,BR
@@ -6474,11 +6473,11 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7246482,PU3DHS,Cleber,Martins,Tramandai,RS,BR
 7246483,PU3MVA,Marcelo,Vargas,Porto Alegre,RS,BR
 7246484,PU8MLB,Valdelison,Silva,Imperatriz,MA,BR
-7246485,PY2LTZ,Paulo,Secheusk ,Ipaussu,SP,BR
-7246486,PU4ABE,Mateus ,Felipe,Sao Joaquim de Bicas,MG,BR
+7246485,PY2LTZ,Paulo,Secheusk,Ipaussu,SP,BR
+7246486,PU4ABE,Mateus,Felipe,Sao Joaquim de Bicas,MG,BR
 7246487,PU2OUB,Cesar,Araujo,Sao Paulo,SP,BR
 7246488,PU4LGR,Flavio,Diniz,Sete Lagoas,MG,BR
-7246489,PU7OPR,Paulo ,Nobre ,Crato,CE,BR
+7246489,PU7OPR,Paulo,Nobre,Crato,CE,BR
 7246490,PU2YPN,Alexandre,Santos,Barretos,SP,BR
 7246491,PU1MXD,Max,Douglas,Paraty,RJ,BR
 7246492,PU2UHV,Fabio,Garcia,S J da Boa Vista,SP,BR
@@ -6513,7 +6512,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7246521,PU2LSF,Ian,Roberto,Campo Limpo Paulista,SP,BR
 7246522,PU4EBL,Emanuel,Leandro,Alfenas,MG,BR
 7246523,PU1MBU,Milton,Barros,Rio de Janeiro,RJ,BR
-7246524,PU2TMR,Renato ,Lemos,Sao Paulo,SP,BR
+7246524,PU2TMR,Renato,Lemos,Sao Paulo,SP,BR
 7246525,PU4TEV,Tiago,Elias,Santa Rita de Caldas,MG,BR
 7246526,PU7NBN,Rodrigo,Cacau,Fortaleza,CE,BR
 7246527,PU6XAN,Alexandre,Bomfim,Vitoria da Conquista,BA,BR
